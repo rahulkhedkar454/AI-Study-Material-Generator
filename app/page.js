@@ -36,7 +36,7 @@ const LandingPage = () => {
           <span className="px-2 py-1 text-xs text-white bg-blue-600 rounded-full">
             New
           </span>
-          <span className="text-sm">Adiaparmar : AI-Powered Exam Prep</span>
+          <span className="text-sm">Rahul khedkar: AI-Powered Exam Prep</span>
           <ArrowRight className="w-4 h-4" />
         </div>
       </div>
@@ -102,7 +102,7 @@ const LandingPage = () => {
 
       {/* Footer */}
       <footer className="text-center py-4 md:py-6 text-gray-600 text-sm md:text-base">
-        Made with ❤️ by Aditya Kumar Singh
+        Made with ❤️ by Rahul khedkar
       </footer>
     </div>
   );
